@@ -1,10 +1,10 @@
-## Hi there 👋
-Motivated Computer Science & Engineering graduate with programming skills, seeking to leverage my technical 
+## Hello World 👋
+I am Motivated Computer Science & Engineering graduate with programming skills, seeking to leverage my technical 
 expertise, analytical abilities and passion for technologies to contribute to a dynamic software development team 
 and learn in a challenging environment
 
 SKILLS 
-• Programming Language: Java 
+• Programming Language: Java, C, Python
 • SQL, Git & GitHub 
 • Front-end: HTML, CSS, JavaScript  
 • Relevant Coursework: Object-Oriented Programming (OOPS), Data Structures, DBMS.
