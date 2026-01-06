@@ -1,5 +1,13 @@
 ## Hi there 👋
+Motivated Computer Science & Engineering graduate with programming skills, seeking to leverage my technical 
+expertise, analytical abilities and passion for technologies to contribute to a dynamic software development team 
+and learn in a challenging environment
 
+SKILLS 
+• Programming Language: Java 
+• SQL, Git & GitHub 
+• Front-end: HTML, CSS, JavaScript  
+• Relevant Coursework: Object-Oriented Programming (OOPS), Data Structures, DBMS.
 <!--
 **AshutoshDubey123/AshutoshDubey123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
