@@ -8,7 +8,7 @@ SKILLS
 • SQL, Git & GitHub  
 • Front-end: HTML, CSS, JavaScript  
 • Relevant Coursework: Object-Oriented Programming (OOPS), Data Structures, Algorithms, DBMS,  
-Operating Systems, Software Engineering (SDLC), Cloud Computing.
+  Operating Systems, Software Engineering (SDLC), Cloud Computing.
 <!--
 **AshutoshDubey123/AshutoshDubey123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
