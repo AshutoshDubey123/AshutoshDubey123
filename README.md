@@ -1,5 +1,5 @@
 ## Hello World 👋
-I am Motivated Computer Science & Engineering graduate with programming skills, seeking to leverage my technical 
+I am motivated Computer Science & Engineering graduate with programming skills, seeking to leverage my technical 
 expertise, analytical abilities and passion for technologies to contribute to a dynamic software development team 
 and learn in a challenging environment
 
